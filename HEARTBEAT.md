@@ -1,5 +1,7 @@
 # HEARTBEAT.md
 
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
-
-# Add tasks below when you want the agent to check something periodically.
+## Daily Backup
+- **Task:** Commit and push workspace to GitHub
+- **Check:** Run `git status` before commit
+- **Command:** `cd /home/ubuntu/.openclaw/workspace && git add -A && git commit -m "Daily backup: $(date)" && git push origin master`
+- **Frequency:** Once daily (include in morning heartbeat)
