@@ -1,7 +1,8 @@
 # HEARTBEAT.md
 
-## Daily Backup
-- **Task:** Commit and push workspace to GitHub
-- **Check:** Run `git status` before commit
-- **Command:** `cd /home/ubuntu/.openclaw/workspace && git add -A && git commit -m "Daily backup: $(date)" && git push origin master`
-- **Frequency:** Once daily (include in morning heartbeat)
+## Daily GitHub Backup (24h interval)
+
+Run once per day:
+- Check git status
+- If changes exist: `git add -A && git commit -m "Daily backup: $(date)" && git push origin master`
+- If no changes: skip commit, just confirm backup check ran
