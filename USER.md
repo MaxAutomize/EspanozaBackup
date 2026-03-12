@@ -1,7 +1,3 @@
-# USER.md - Maxwell Rippley
+# USER.md
 
-- **Name:** Maxwell Rippley
-- **Call me:** Maxwell
-- **Timezone:** UTC
-- **School:** CU Denver
-- **ID:** 6415556597 (Telegram)
+Maxwell | UTC | CU Denver | TG 6415556597

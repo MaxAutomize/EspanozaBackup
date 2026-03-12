@@ -1,17 +1,3 @@
-# TOOLS.md - Local Notes
+# TOOLS.md
 
-Credentials and tool-specific setup.
-
-## Accounts
-
-### Microsoft
-- Email: max.rippley22@outlook.com
-- Password: MaxWillDoIt05$
-
-### GitHub
-- Email: max.rippley22@outlook.com
-- Password: MaxWillDoIt05$
-
-## Notes
-
-- Agent Browser: Use exclusively for all web browsing.
+MS: max.rippley22@outlook.com | GH: max.rippley22@outlook.com | Browser: exclusive
